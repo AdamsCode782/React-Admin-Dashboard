@@ -18,18 +18,18 @@ apps, admin tools, and portfolio presentations.
 
 This project features:
 
--   A fully responsive multi-page dashboard\
+-   A fully responsive multi-page dashboard
 -   Modular components for analytics, sales, orders, users, and
-    products\
--   Motion-enhanced UI with Framer Motion\
--   Tailwind-powered design system\
+    products
+-   Motion-enhanced UI with Framer Motion
+-   Tailwind-powered design system
 -   Recharts-based visualization suite
 
 ------------------------------------------------------------------------
 
 ## 📸 Screenshots
 
-![Screenshot 2](public/screenshot-for-readme-2.png)\
+![Screenshot 2](public/screenshot-for-readme-2.png)
 ![Screenshot 3](public/screenshot-for-readme-3.png)
 
 ------------------------------------------------------------------------
@@ -74,47 +74,47 @@ A high-level view of the project layout:
 
 ### 📊 Analytics & Insights
 
--   Revenue and sales charts\
--   Category and channel distribution\
--   User retention and segmentation\
--   Product performance insights\
+-   Revenue and sales charts
+-   Category and channel distribution
+-   User retention and segmentation
+-   Product performance insights
 -   Daily/weekly trends
 
 ### 🛒 E-Commerce Toolkit
 
--   Orders table\
--   Daily order analytics\
+-   Orders table
+-   Daily order analytics
 -   Product trend charts
 
 ### 👥 User Management
 
--   Users table\
--   Demographics & growth charts\
+-   Users table
+-   Demographics & growth charts
 -   Activity heatmap
 
 ### ⚙️ Account & Settings
 
--   Profile configuration\
--   Notification preferences\
--   Security options\
--   Connected accounts\
+-   Profile configuration
+-   Notification preferences
+-   Security options
+-   Connected accounts
 -   Danger zone panel
 
 ### 🧩 UI Components
 
--   Responsive sidebar navigation\
--   Interactive header\
--   Reusable stat cards\
+-   Responsive sidebar navigation
+-   Interactive header
+-   Reusable stat cards
 -   Animated transitions
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   **React**\
--   **Tailwind CSS**\
--   **Recharts**\
--   **Framer Motion**\
+-   **React**
+-   **Tailwind CSS**
+-   **Recharts**
+-   **Framer Motion**
 -   **Vite**
 
 ------------------------------------------------------------------------
