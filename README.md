@@ -1,10 +1,13 @@
 # 🚀 React Admin Dashboard
-
-![Hero Banner](public/screenshot-for-readme-1.png)
-
 A modern, responsive, and production-ready **Admin Dashboard UI Kit**
 built with **React**, **Tailwind CSS**, **Recharts**, and **Framer
 Motion**.\
+
+Live demo link: https://react-admin-dashboard-chi-rouge.vercel.app/
+
+![Hero Banner](public/screenshot-for-readme-1.png)
+
+
 This dashboard demonstrates clean architecture, reusable chart
 components, smooth UI animations, and a scalable layout perfect for SaaS
 apps, admin tools, and portfolio presentations.
