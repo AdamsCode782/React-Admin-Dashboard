@@ -1,7 +1,7 @@
 # 🚀 React Admin Dashboard
 A modern, responsive, and production-ready **Admin Dashboard UI Kit**
 built with **React**, **Tailwind CSS**, **Recharts**, and **Framer
-Motion**.\
+Motion**.
 
 Live demo link: https://react-admin-dashboard-chi-rouge.vercel.app/
 
